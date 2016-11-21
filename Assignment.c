@@ -1,6 +1,6 @@
 /*-------------------------------------------------------------------
 */
-/* ITS60304ý Assignment #1 */
+/* ITS60304Ã½ Assignment #1 */
 /* C Programming */
 /* Student Name: <Tan Jinyung> <Raynald Vun> */
 /* Student ID: <0328895> <0324824> */
